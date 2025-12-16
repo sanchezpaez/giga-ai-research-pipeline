@@ -11,3 +11,10 @@ wheels/
 
 # Local outputs
 local_outputs/
+
+# Data files
+data/
+
+# Lambda build artifacts
+lambda_build/
+*.zip

@@ -17,4 +17,5 @@ data/
 
 # Lambda build artifacts
 lambda_build/
+lambda_layer_pandas/
 *.zip
